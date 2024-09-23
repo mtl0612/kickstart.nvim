@@ -1,0 +1,1 @@
+command GitDiff execute  "w !git diff --ignore-space-at-eol % -"
